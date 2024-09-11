@@ -1,2 +1,2 @@
 # projeto-biologia-meiose
-Estudantes do curso de Desenvolvimento de Sistemas do SENAI, desenvolvendo uma página web sobre meiose
+students of SENAI course on desenvolviment of systems, creating a web page about Meiose stages
