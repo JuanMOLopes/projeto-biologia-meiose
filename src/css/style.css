@@ -161,7 +161,7 @@ audio {
 
 .imagens {
     width: auto;
-    height: 500vh;
+    height: 100vh;
 }
 
 @media (max-width: 768px) {
