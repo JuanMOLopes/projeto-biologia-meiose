@@ -1,3 +1,3 @@
 # projeto-biologia-meiose
 
-<h1> teste </h1>
+<h1> grupo 2 </h1>
