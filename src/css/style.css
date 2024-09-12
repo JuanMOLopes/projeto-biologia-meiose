@@ -174,8 +174,16 @@ audio {
         align-items: center;
     }
 
+    header {
+        position: static;
+    }
+
     header img {
         width: 10vw;
+    }
+
+    section {
+        width: 100%;
     }
 
     .lista-header {
