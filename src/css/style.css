@@ -159,7 +159,7 @@ audio {
     background-size: cover;
 }
 
-.img {
+.imagens {
     width: auto;
     height: 500vh;
 }
@@ -197,7 +197,7 @@ audio {
         justify-content: space-evenly;
     }
 
-    .img {
+    .imagens {
     width: auto;
     height: 250vh;
 }
