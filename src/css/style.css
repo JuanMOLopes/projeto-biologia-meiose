@@ -63,9 +63,13 @@
  header {
      width: 100%;
      background-color: #0c898e;
+
+     /* Deixa o header fixo no topo da tela */
      position: sticky;
      top: 0;
+
      align-items: center;
+
      /* Z-index: eixo z (profundidade) por cima de todo o site */
      z-index: 1;
  }
@@ -192,6 +196,7 @@
      }
 
      header {
+        /* Quando passa para telas menores, fica estático */
          position: static;
      }
 
