@@ -159,6 +159,11 @@ audio {
     background-size: cover;
 }
 
+.img {
+    width: auto;
+    height: 500vh;
+}
+
 @media (max-width: 768px) {
     .row {
         display: flex;
@@ -191,4 +196,9 @@ audio {
         flex-direction: row;
         justify-content: space-evenly;
     }
+
+    .img {
+    width: auto;
+    height: 250vh;
+}
 }
