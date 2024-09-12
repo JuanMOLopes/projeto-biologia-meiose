@@ -25,7 +25,7 @@ h3 {
 
 a {
     color: #064d4e;
-    text-decoration: none;
+    text-decoration: underline;
     font-family: "Playfair Display", serif;
     font-weight: 900;
     letter-spacing: 2px;
@@ -61,6 +61,8 @@ header {
     position: sticky;
     top: 0;
     align-items: center;
+    /* Z-index: eixo z (profundidade) por cima de todo o site */
+    z-index: 1;
 }
 
 header img {
@@ -148,7 +150,7 @@ audio {
 }
 
 .parallax {
-    background-image: url("../img/parallax.png");
+    background-image: url("../img/Parallax.png");
 
     min-height: 500px;
     width: 100%;
